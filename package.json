@@ -20,6 +20,7 @@
   "homepage": "https://github.com/dmaleknia/Cryptocurrency-Charting-Tool#readme",
   "dependencies": {
     "axios": "^0.18.0",
+    "babel-preset-react": "^6.24.1",
     "body-parser": "^1.18.3",
     "chart.js": "^2.7.3",
     "cors": "^2.8.5",

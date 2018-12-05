@@ -1,14 +1,13 @@
 import React from 'react';
-import { useState } from 'react';
 
-const App = () => {
-
+const App = (props) => {
 
   return (
     <div>
-      Hello from App!
+      Hello world!
     </div>
   );
+
 }
 
 export default App;
